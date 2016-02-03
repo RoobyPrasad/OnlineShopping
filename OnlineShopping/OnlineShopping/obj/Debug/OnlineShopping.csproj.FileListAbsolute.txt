@@ -1,0 +1,100 @@
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\ClearScript.V8\ClearScriptV8-32.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\ClearScript.V8\ClearScriptV8-64.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\ClearScript.V8\v8-ia32.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\ClearScript.V8\v8-x64.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll.config
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\OnlineShopping.pdb
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\ClearScript.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\JavaScriptEngineSwitcher.V8.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\JSPool.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\MsieJavaScriptEngine.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\React.Core.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\React.Web.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\React.Web.Mvc4.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Net.Http.Formatting.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.Http.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.Http.WebHost.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.Razor.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\VroomJs.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\WebActivatorEx.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\JSPool.xml
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.xml
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\React.Core.xml
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\React.Web.xml
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\React.Web.Mvc4.xml
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Net.Http.Formatting.xml
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.xml
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.Http.xml
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.Http.WebHost.xml
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.xml
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.Razor.xml
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.xml
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.xml
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.xml
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csprojResolveAssemblyReference.cache
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.dll
+C:\Project\Practice\WCF Service Test App\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb
+C:\OnlineShopping\OnlineShopping\bin\ClearScript.V8\ClearScriptV8-32.dll
+C:\OnlineShopping\OnlineShopping\bin\ClearScript.V8\ClearScriptV8-64.dll
+C:\OnlineShopping\OnlineShopping\bin\ClearScript.V8\v8-ia32.dll
+C:\OnlineShopping\OnlineShopping\bin\ClearScript.V8\v8-x64.dll
+C:\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll.config
+C:\OnlineShopping\OnlineShopping\bin\OnlineShopping.dll
+C:\OnlineShopping\OnlineShopping\bin\OnlineShopping.pdb
+C:\OnlineShopping\OnlineShopping\bin\ClearScript.dll
+C:\OnlineShopping\OnlineShopping\bin\JavaScriptEngineSwitcher.Core.dll
+C:\OnlineShopping\OnlineShopping\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\OnlineShopping\OnlineShopping\bin\JavaScriptEngineSwitcher.V8.dll
+C:\OnlineShopping\OnlineShopping\bin\JSPool.dll
+C:\OnlineShopping\OnlineShopping\bin\Microsoft.Web.Infrastructure.dll
+C:\OnlineShopping\OnlineShopping\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\OnlineShopping\OnlineShopping\bin\MsieJavaScriptEngine.dll
+C:\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.dll
+C:\OnlineShopping\OnlineShopping\bin\React.Core.dll
+C:\OnlineShopping\OnlineShopping\bin\React.Web.dll
+C:\OnlineShopping\OnlineShopping\bin\React.Web.Mvc4.dll
+C:\OnlineShopping\OnlineShopping\bin\System.Net.Http.Formatting.dll
+C:\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.dll
+C:\OnlineShopping\OnlineShopping\bin\System.Web.Http.dll
+C:\OnlineShopping\OnlineShopping\bin\System.Web.Http.WebHost.dll
+C:\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.dll
+C:\OnlineShopping\OnlineShopping\bin\System.Web.Razor.dll
+C:\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.dll
+C:\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.dll
+C:\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.dll
+C:\OnlineShopping\OnlineShopping\bin\VroomJs.dll
+C:\OnlineShopping\OnlineShopping\bin\WebActivatorEx.dll
+C:\OnlineShopping\OnlineShopping\bin\JSPool.xml
+C:\OnlineShopping\OnlineShopping\bin\Newtonsoft.Json.xml
+C:\OnlineShopping\OnlineShopping\bin\React.Core.xml
+C:\OnlineShopping\OnlineShopping\bin\React.Web.xml
+C:\OnlineShopping\OnlineShopping\bin\React.Web.Mvc4.xml
+C:\OnlineShopping\OnlineShopping\bin\System.Net.Http.Formatting.xml
+C:\OnlineShopping\OnlineShopping\bin\System.Web.Helpers.xml
+C:\OnlineShopping\OnlineShopping\bin\System.Web.Http.xml
+C:\OnlineShopping\OnlineShopping\bin\System.Web.Http.WebHost.xml
+C:\OnlineShopping\OnlineShopping\bin\System.Web.Mvc.xml
+C:\OnlineShopping\OnlineShopping\bin\System.Web.Razor.xml
+C:\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.xml
+C:\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Deployment.xml
+C:\OnlineShopping\OnlineShopping\bin\System.Web.WebPages.Razor.xml
+C:\OnlineShopping\OnlineShopping\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\OnlineShopping\OnlineShopping\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\OnlineShopping\OnlineShopping\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csprojResolveAssemblyReference.cache
+C:\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.dll
+C:\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb
